@@ -1,2 +1,3 @@
 print("webdriver.Chrome")
-driver.webdriver("Browser.")
+driver.webdriver("Browser.")]
+driver.close()
